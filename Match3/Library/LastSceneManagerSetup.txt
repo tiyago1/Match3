@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Eray/Desktop/Unity Project/Update Animation/PoolUIAnimations/Assets/_NewAnimations/Scenes/MatchResultBarAnimationScene.unity
+  isLoaded: 1
+  isActive: 1
